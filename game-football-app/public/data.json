@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "question": "¿Qué jugador de la Premier League es conocido como 'The Egyptian King' y juega en el Liverpool FC?",
+    "image_url": "URL de la imagen",
+    "answers": [
+      "Pierre-Emerick Aubameyang",
+      "Mohamed Salah",
+      "Kevin De Bruyne",
+      "Harry Kane"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 2,
+    "question": "Este futbolista inglés es capitán del Manchester United y es famoso por su liderazgo en el campo. ¿Quién es?",
+    "image_url": "URL de la imagen",
+    "answers": [
+      "Jordan Henderson",
+      "Jack Grealish",
+      "Harry Maguire",
+      "Bruno Fernandes"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 3,
+    "question": "¿Cuál de los siguientes jugadores surcoreanos es una parte vital del ataque del Tottenham Hotspur?",
+    "image_url": "URL de la imagen",
+    "answers": [
+      "Raheem Sterling",
+      "Jamie Vardy",
+      "Sadio Mané",
+      "Son Heung-min"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "id": 4,
+    "question": "Este centrocampista belga es conocido por su visión y precisión en los pases, y juega en el Manchester City. ¿Quién es?",
+    "image_url": "URL de la imagen",
+    "answers": [
+      "Kevin De Bruyne",
+      "Paul Pogba",
+      "James Maddison",
+      "Mason Mount"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 5,
+    "question": "¿Cuál de estos futbolistas es el máximo goleador histórico del Arsenal FC y también una leyenda de la selección francesa?",
+    "image_url": "URL de la imagen",
+    "answers": [
+      "Sergio Agüero",
+      "Thierry Henry",
+      "Roberto Firmino",
+      "Timo Werner"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 6,
+    "question": "¿Qué delantero inglés es conocido por su velocidad y habilidad de anotación en el Manchester City?",
+    "image_url": "URL de la imagen",
+    "answers": ["Tammy Abraham", "Harry Kane", "Marcus Rashford", "Phil Foden"],
+    "correctAnswer": 4
+  },
+  {
+    "id": 7,
+    "question": "¿Cuál de estos defensores es un pilar en la defensa del Liverpool FC y es conocido por su solidez en el juego aéreo?",
+    "image_url": "URL de la imagen",
+    "answers": [
+      "Andrew Robertson",
+      "Trent Alexander-Arnold",
+      "John Stones",
+      "Virgil van Dijk"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "id": 8,
+    "question": "Este mediocampista portugués es una parte esencial del centro del campo del Manchester United. ¿Quién es?",
+    "image_url": "URL de la imagen",
+    "answers": [
+      "Bernardo Silva",
+      "Bruno Fernandes",
+      "João Cancelo",
+      "Diogo Jota"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 9,
+    "question": "¿Qué joven talentoso delantero inglés es conocido por su capacidad de regate y versatilidad en el ataque?",
+    "image_url": "URL de la imagen",
+    "answers": [
+      "Jadon Sancho",
+      "Callum Hudson-Odoi",
+      "Phil Foden",
+      "Mason Greenwood"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 10,
+    "question": "Este arquero brasileño es el portero titular del Liverpool FC y es famoso por sus espectaculares atajadas. ¿Quién es?",
+    "image_url": "URL de la imagen",
+    "answers": ["Ederson", "Alisson Becker", "Hugo Lloris", "David de Gea"],
+    "correctAnswer": 2
+  }
+]
