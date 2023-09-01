@@ -2,7 +2,6 @@ import { useEffect, useState } from 'react';
 import { useQuestionsStore } from '../store/questions';
 import { type Question } from '../types';
 import { Correct, IconRight, PuntoLeft, SignoQuestions, Error } from './Icons';
-import styles from './styles.module.css';
 
 enum ColorButtonsAnswer {
   CORRECT = 'bg-green-500',
