@@ -4,8 +4,8 @@
     "question": "¿Qué jugador de la Premier League es conocido como 'The Egyptian King' y juega en el Liverpool FC?",
     "image_url": "URL de la imagen",
     "answers": [
-      "Pierre-Emerick Aubameyang",
       "Mohamed Salah",
+      "Pierre-Emerick Aubameyang",
       "Kevin De Bruyne",
       "Harry Kane"
     ],
@@ -13,13 +13,13 @@
   },
   {
     "id": 2,
-    "question": "Este futbolista inglés es capitán del Manchester United y es famoso por su liderazgo en el campo. ¿Quién es?",
+    "question": "Este futbolista portugues es capitán del Manchester United y es famoso por su liderazgo en el campo. ¿Quién es?",
     "image_url": "URL de la imagen",
     "answers": [
       "Jordan Henderson",
-      "Jack Grealish",
+      "Bruno Fernandes",
       "Harry Maguire",
-      "Bruno Fernandes"
+      "Jack Grealish"
     ],
     "correctAnswer": 2
   },
@@ -108,5 +108,115 @@
     "image_url": "URL de la imagen",
     "answers": ["Ederson", "Alisson Becker", "Hugo Lloris", "David de Gea"],
     "correctAnswer": 2
+  },
+  {
+    "id": 11,
+    "question": "¿Qué mediocampista argentino es conocido por su habilidad en los tiros libres y su visión de juego en el Chelsea FC?",
+    "image_url": "URL de la imagen",
+    "answers": [
+      "Enzo Fernández",
+      "James Maddison",
+      "Jack Grealish",
+      "Jordan Henderson"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 12,
+    "question": "Este delantero argentino es apodado 'Araña' y ha sido una parte crucial del ataque del Manchester City. ¿Quién es?",
+    "image_url": "URL de la imagen",
+    "answers": [
+      "Lionel Messi",
+      "Julian Álvarez",
+      "Gonzalo Higuaín",
+      "Paulo Dybala"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 13,
+    "question": "¿Cuál de estos defensores es conocido por su versatilidad y capacidad para jugar en múltiples posiciones defensivas en el Manchester United?",
+    "image_url": "URL de la imagen",
+    "answers": [
+      "Trent Alexander-Arnold",
+      "John Stones",
+      "Lisandro Martínez",
+      "Diogo Dalot"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 14,
+    "question": "Este mediocampista uruguayo es parte fundamental del centro del campo del Tottenham Hotspur y es conocido por su agresividad y visión de juego. ¿Quién es?",
+    "image_url": "URL de la imagen",
+    "answers": [
+      "Axel Witsel",
+      "Leander Dendoncker",
+      "Youri Tielemans",
+      "Rodrigo Bentancur"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "id": 15,
+    "question": "¿Cuál de estos arqueros es conocido por su agilidad y reflejos rápidos en el arco del Arsenal FC?",
+    "image_url": "URL de la imagen",
+    "answers": [
+      "Aaron Ramsdale",
+      "Kepa Arrizabalaga",
+      "Nick Pope",
+      "Rui Patricio"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 16,
+    "question": "¿Qué delantero inglés es conocido por su instinto goleador y ha sido un activo valioso para el Arsenal FC?",
+    "image_url": "URL de la imagen",
+    "answers": ["Bukayo Saka", "Danny Ings", "Callum Wilson", "Ollie Watkins"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 17,
+    "question": "Este centrocampista noruego es una parte esencial del mediocampo del Arsenal FC y es conocido por su habilidad en el pase y el regate. ¿Quién es?",
+    "image_url": "URL de la imagen",
+    "answers": [
+      "Billy Gilmour",
+      "Scott McTominay",
+      "John McGinn",
+      "Martin Ødegaard"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "id": 18,
+    "question": "¿Cuál de estos defensores es un pilar en la defensa del Chelsea FC y ha sido parte clave en la victoria de la Liga de Campeones?",
+    "image_url": "URL de la imagen",
+    "answers": ["Thiago Silva", "Ben Chilwell", "Ethan Ampadu", "Reece James"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 19,
+    "question": "Este mediocampista holandés es conocido por su habilidad en el control del balón y la distribución precisa en el Manchester United. ¿Quién es?",
+    "image_url": "URL de la imagen",
+    "answers": [
+      "Donny van de Beek",
+      "Georginio Wijnaldum",
+      "Frenkie de Jong",
+      "Davy Klaassen"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 20,
+    "question": "¿Cuál de estos arqueros es famoso por su agilidad y reflejos en el arco del Manchester City?",
+    "image_url": "URL de la imagen",
+    "answers": [
+      "Edouard Mendy",
+      "Emiliano Martínez",
+      "Emiliano Buendía",
+      "Ederson"
+    ],
+    "correctAnswer": 4
   }
 ]

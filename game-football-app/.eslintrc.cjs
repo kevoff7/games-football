@@ -21,6 +21,7 @@ module.exports = {
     'prettier/prettier': 'error',
     '@typescript-eslint/explicit-function-return-type': 'off',
     'react/react-in-jsx-scope': 'off',
-    'eslintimport/no-absolute-path': 'off'
+    'eslintimport/no-absolute-path': 'off',
+    '@typescript-eslint/no-floating-promises': 'off'
   }
 };
